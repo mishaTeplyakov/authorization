@@ -9,4 +9,5 @@ php - contains Dockerfile for php
 
 run project just clone it and run docker-compose
 1. git clone https://github.com/mishaTeplyakov/authorization.git
+2. cd authorization
 2. docker-compose run -d
